@@ -1,0 +1,9 @@
+[submodule "1-API-INTEGRATION"]
+	path = 1-API-INTEGRATION
+	url = https://github.com/Sravan-09/skyflow-weather.git
+[submodule "2-CHAT-APPLICATION"]
+	path = 2-CHAT-APPLICATION
+	url = https://github.com/Sravan-09/TeamSpace.git
+[submodule "3-REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR"]
+	path = 3-REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
+	url = https://github.com/Sravan-09/CoWrite.git
