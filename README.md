@@ -1,12 +1,12 @@
 # CODTECH Internship: Full-Stack Web Development
 
 ## 🎓 Internship Overview
-* **Organization**: Codtech IT Solutions Private Limited [cite: 8]
-* **Intern Name**: Bokkasam Sravan [cite: 6]
-* **Intern ID**: CTIS1964 [cite: 11]
-* **Domain**: Full Stack Web Development [cite: 7]
-* **Duration**: January 3, 2026 – February 28, 2026 [cite: 10]
-* **Mentor**: Neela Santhosh Kumar (HR & Academic Head) [cite: 26, 28]
+* **Organization**: Codtech IT Solutions Private Limited
+* **Intern Name**: Bokkasam Sravan
+* **Intern ID**: CTIS1964
+* **Domain**: Full Stack Web Development
+* **Duration**: January 3, 2026 – February 28, 2026
+* **Mentor**: Neela Santhosh Kumar (HR & Academic Head)
 
 ---
 
@@ -45,10 +45,10 @@ A comprehensive tool for monitoring work patterns and time allocation.
 ---
 
 ## 🛠️ Key Skills Mastered
-* **Full-Stack Development**: Building end-to-end applications with React, Node, and Express. [cite: 12]
+* **Full-Stack Development**: Building end-to-end applications with React, Node, and Express.
 * **Real-Time Systems**: Implementing WebSockets for instant data synchronization.
 * **Data Persistence**: Managing both NoSQL (MongoDB) and file-based storage systems.
-* **DevOps**: Professional Git workflow, including submodule management and repository architecture. [cite: 13, 14]
+* **DevOps**: Professional Git workflow, including submodule management and repository architecture.
 
 ---
 *Developed by Sravan-09 for CODTECH IT Solutions.*
