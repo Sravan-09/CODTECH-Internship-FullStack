@@ -1,6 +1,6 @@
 # CODTECH Internship: Full-Stack Web Development
 
-## Internship Overview
+## 🎓 Internship Overview
 * **Organization**: Codtech IT Solutions Private Limited [cite: 8]
 * **Intern Name**: Bokkasam Sravan [cite: 6]
 * **Intern ID**: CTIS1964 [cite: 11]
@@ -10,34 +10,45 @@
 
 ---
 
-## Project Submodules
-This repository serves as a centralized hub for all tasks completed during the internship. Each task is linked as a Git submodule for professional version control.
+## 🚀 Project Portfolio
+This repository acts as a professional hub for four major full-stack applications completed during the internship. Each project is managed via Git submodules.
 
-### 1. [API Integration (Skyflow Weather)](https://github.com/Sravan-09/skyflow-weather)
-* **Focus**: Frontend & External API Consumption.
-* **Description**: A real-time weather application fetching data from OpenWeatherMap API to provide live updates and interactive visualizations.
+### 1. [SkyFlow Weather Dashboard](https://github.com/Sravan-09/skyflow-weather)
+A modern, responsive meteorological dashboard featuring glassmorphism UI.
+* **Features**: Real-time acquisition, 7-day synoptic outlook, and automated geolocation.
+* **Tech Stack**: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), Open-Meteo API.
 
-### 2. [Chat Application (TeamSpace)](https://github.com/Sravan-09/TeamSpace)
-* **Focus**: Real-time Communication & WebSockets.
-* **Description**: A collaborative platform allowing users to create rooms and exchange messages instantly using Socket.io.
+### 2. [TeamSpace: Collaboration Platform](https://github.com/Sravan-09/TeamSpace)
+A secure real-time communication platform for team synergy.
+* **Features**: Public Team Rooms, 1-on-1 Direct Messaging, SHA-256 password hashing, and local JSON persistence.
+* **Tech Stack**: Node.js, Express, Socket.io, Tailwind CSS.
 
-### 3. [Collaborative Document Editor (CoWrite)](https://github.com/Sravan-09/CoWrite.git)
-* **Focus**: Real-time Data Synchronization.
-* **Description**: A cloud-based editor enabling multiple users to edit the same file simultaneously with conflict resolution.
+### 3. [CoWrite: Collaborative Editor](https://github.com/Sravan-09/CoWrite)
+A real-time rich-text editor for seamless multi-user document editing.
+* **Features**: Dynamic document routing via UUIDs, auto-save to MongoDB every 2 seconds, and Quill.js integration.
+* **Tech Stack**: React.js, Node.js, Socket.io, MongoDB, Mongoose.
 
 ### 4. [Time-Tracker & Productivity Analytics](https://github.com/Sravan-09/Time-Tracker-Productivity-Analytics)
-* **Focus**: Full-Stack Data Management & Analytics.
-* **Description**: A tool designed to track work patterns and provide visual insights into user efficiency.
+A comprehensive tool for monitoring work patterns and time allocation.
+* **Features**: Real-time tracking, automated task categorization, and efficiency analytics dashboards.
+* **Tech Stack**: Full-Stack (Frontend + Backend + Analytics Engine).
 
 ---
 
-## Documentation
-The **`/docs`** folder contains the final internship completion report and supporting materials required for evaluation.
+## 📂 Repository Structure
+* **`/1-API-INTEGRATION`**: SkyFlow Weather codebase.
+* **`/2-CHAT-APPLICATION`**: TeamSpace communication platform.
+* **`/3-REAL-TIME-COLLABORATIVE-EDITOR`**: CoWrite document editor.
+* **`/4-TIME-TRACKER-PRODUCTIVITY-ANALYTICS`**: Productivity tool.
+* **`/docs`**: Final internship report and completion documentation.
 
 ---
 
-## Technical Skills Acquired
-* **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+).
-* **Backend**: Node.js, Express.js.
-* **Real-time**: Socket.io / WebSockets.
-* **DevOps**: Git/GitHub, Submodule management. [cite: 12, 13]
+## 🛠️ Key Skills Mastered
+* **Full-Stack Development**: Building end-to-end applications with React, Node, and Express. [cite: 12]
+* **Real-Time Systems**: Implementing WebSockets for instant data synchronization.
+* **Data Persistence**: Managing both NoSQL (MongoDB) and file-based storage systems.
+* **DevOps**: Professional Git workflow, including submodule management and repository architecture. [cite: 13, 14]
+
+---
+*Developed by Sravan-09 for CODTECH IT Solutions.*
